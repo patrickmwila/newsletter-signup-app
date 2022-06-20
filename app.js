@@ -74,5 +74,3 @@ app.post('/', (req, res) => {
 
 function checkSuccess(apiResponseData) {
 }
-// mailchimp api-key: b6b0c71b5fe1eb8baccba57249bdcf20-us17
-// mailchimp list-id: d5c018dba0
